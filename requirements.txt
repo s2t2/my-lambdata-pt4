@@ -1,4 +1,0 @@
-pandas
-
-# just an example to demonstrate installing specific versions:
-sendgrid==5.6.0
